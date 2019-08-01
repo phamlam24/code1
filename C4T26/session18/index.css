@@ -1,0 +1,39 @@
+#color1{
+    background-color: blueviolet;
+}
+.color{
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 60px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    flex-flow: row;
+    justify-content: center
+}
+#color2{
+    background-color: yellow;
+}
+#color3{
+    background-color: pink;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+html{
+    background-color: aqua;
+}
+#score{
+
+}
+#rgb{
+    margin-top: 200px
+}
+#root{
+    display: flex;
+    flex-flow: column;
+    align-items:center;
+}
